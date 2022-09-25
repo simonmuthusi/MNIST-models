@@ -1,2 +1,2 @@
 # MNIST-models
-MNIST Dataset Machine Learning Models
+Bulding a deep learning convolution neural networks with the MNIST dataset.
